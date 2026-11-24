@@ -1,7 +1,7 @@
 # Ex04 Simple Calculator - React Project
 ## Date:24-11-2026
 ## Name : Dharaniga S
-## Reg No : 212225040338
+## Reg No : 212225040068
 
 ## AIM
 To  develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
